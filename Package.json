@@ -1,0 +1,14 @@
+{
+  "name": "qu-n-ly-d-li-u",
+  "version": "1.0.0",
+  "description": "Dự án Fullstack chạy trên Vercel kết nối MongoDB đám mây",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
